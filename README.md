@@ -5,7 +5,7 @@ In this Specialization, we will build and train neural network architectures suc
 
 There are 5 courses in this Specialized Program:
 
-### Course 1: [Neural Networks Deep Learning]()
+### Course 1: [Neural Networks Deep Learning](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC01%5D%20Neural%20Networks%20and%20Deep%20Learning)
 In the first course of the Deep Learning Specialization, we will study the foundational concept of neural networks and deep learning. 
 
 * **Week 1 - Introduction to Deep Learning:** Analyze the major trends driving the rise of deep learning, and give examples of where and how it is applied today.
