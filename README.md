@@ -14,4 +14,4 @@ In the first course of the Deep Learning Specialization, we will study the found
 * [**Week 4 - Deep Neural Networks:**]() Analyze the key computations underlying deep learning, then use them to build and train deep neural networks for computer vision tasks.
 
 ### Disclaimer
-The solutions to the assignments and quizzes uploaded here are **only for reference**.
+The solutions to the assignments uploaded here are **only for reference**.
