@@ -9,9 +9,9 @@ There are 5 courses in this Specialized Program:
 In the first course of the Deep Learning Specialization, we will study the foundational concept of neural networks and deep learning. 
 
 * **Week 1 - Introduction to Deep Learning:** Analyze the major trends driving the rise of deep learning, and give examples of where and how it is applied today.
-* **Week 2 - Neural Networks Basics:** Set up a machine learning problem with a neural network mindset and use vectorization to speed up your models.
-* **Week 3 - Shallow Neural Networks:** Build a neural network with one hidden layer, using forward propagation and backpropagation.
-* **Week 4 - Deep Neural Networks:** Analyze the key computations underlying deep learning, then use them to build and train deep neural networks for computer vision tasks.
+* [**Week 2 - Neural Networks Basics:**]() Set up a machine learning problem with a neural network mindset and use vectorization to speed up your models.
+* [**Week 3 - Shallow Neural Networks:**]() Build a neural network with one hidden layer, using forward propagation and backpropagation.
+* [**Week 4 - Deep Neural Networks:**]() Analyze the key computations underlying deep learning, then use them to build and train deep neural networks for computer vision tasks.
 
 ### Disclaimer
 The solutions to the assignments and quizzes uploaded here are **only for reference**.
