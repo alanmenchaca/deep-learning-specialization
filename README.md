@@ -13,5 +13,12 @@ In the first course of the Deep Learning Specialization, we will study the found
 * [**Week 3 - Shallow Neural Networks:**]() Build a neural network with one hidden layer, using forward propagation and backpropagation.
 * [**Week 4 - Deep Neural Networks:**]() Analyze the key computations underlying deep learning, then use them to build and train deep neural networks for computer vision tasks.
 
+### Course 2: [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization]()
+In the second course
+
+* [**Week 1 - Practical Aspects of Deep Learning:]()** ...
+* [**Week 2 - Optimization Algorithms:**]() ...
+* [**Week 3 - Hyperparameter Tuning, Batch Normalization and Programming Frameworks:**]() ...
+
 ### Disclaimer
 The solutions to the assignments uploaded here are **only for reference**.
