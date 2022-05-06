@@ -14,11 +14,11 @@ In the first course of the Deep Learning Specialization, we will study the found
 * [**Week 4 - Deep Neural Networks:**]() Analyze the key computations underlying deep learning, then use them to build and train deep neural networks for computer vision tasks.
 
 ### Course 2: [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization]()
-In the second course
+In the second course of the Deep Learning Specialization, we will open the deep learning black box to understand the processes that drive performance and generate good results systematically. 
 
-* [**Week 1 - Practical Aspects of Deep Learning:**]() ...
-* [**Week 2 - Optimization Algorithms:**]() ...
-* [**Week 3 - Hyperparameter Tuning, Batch Normalization and Programming Frameworks:**]() ...
+* [**Week 1 - Practical Aspects of Deep Learning:**]() Discover and experiment with a variety of different initialization methods, apply L2 regularization and dropout to avoid model overfitting, then apply gradient checking to identify errors in a fraud detection model.
+* [**Week 2 - Optimization Algorithms:**]() Develop your deep learning toolbox by adding more advanced optimizations, random minibatching, and learning rate decay scheduling to speed up your models.
+* [**Week 3 - Hyperparameter Tuning, Batch Normalization and Programming Frameworks:**]() Explore TensorFlow, a deep learning framework that allows you to build neural networks quickly and easily, then train a neural network on a TensorFlow dataset.
 
 ### Disclaimer
 The solutions to the assignments uploaded here are **only for reference**.
