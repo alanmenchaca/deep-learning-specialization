@@ -20,5 +20,12 @@ In the second course of the Deep Learning Specialization, we will open the deep 
 * [**Week 2 - Optimization Algorithms:**]() Develop your deep learning toolbox by adding more advanced optimizations, random mini-batching, and learning rate decay scheduling to speed up your models.
 * [**Week 3 - Hyperparameter Tuning, Batch Normalization and Programming Frameworks:**]() Explore TensorFlow, a deep learning framework that allows you to build neural networks quickly and easily and train a neural network on a TensorFlow dataset.
 
+
+### Course 3: [Structuring Machine Learning Projects]()
+In the third course of the Deep Learning Specialization, we will learn how to build a successful machine learning project and get to practice decision-making as a machine learning project leader.
+
+* [**Week 1 - ML Strategy (Strategic guidelines):**]() Streamline and optimize your ML production workflow by implementing strategic guidelines for goal-setting and applying human-level performance to help define key priorities.
+* [**Week 2 - ML Strategy:**]() Develop time-saving error analysis procedures to evaluate the most worthwhile options to pursue and gain intuition for how to split your data and when to use multi-task, transfer, and end-to-end deep learning.
+
 ### Disclaimer
 The solutions to the assignments uploaded here are **only for reference**.
