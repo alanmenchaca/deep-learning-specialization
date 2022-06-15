@@ -24,8 +24,8 @@ In the second course of the Deep Learning Specialization, we will open the deep 
 ### Course 3: [Structuring Machine Learning Projects]()
 In the third course of the Deep Learning Specialization, we will learn how to build a successful machine learning project and get to practice decision-making as a machine learning project leader.
 
-* [**Week 1 - Strategic guidelines and Using Human-level Performance:**]() Streamline and optimize your ML production workflow by implementing strategic guidelines for goal-setting and applying human-level performance to help define key priorities.
-* [**Week 2 - Error Analysis, Learning from Multiple Tasks and End-to-end Deep Learning:**]() Develop time-saving error analysis procedures to evaluate the most worthwhile options to pursue and gain intuition for how to split your data and when to use multi-task, transfer, and end-to-end deep learning.
+* [**ML Strategy [1] - Strategic guidelines and Using Human-level Performance:**]() Streamline and optimize your ML production workflow by implementing strategic guidelines for goal-setting and applying human-level performance to help define key priorities.
+* [**ML Strategy [2] - Error Analysis, Learning from Multiple Tasks and End-to-end Deep Learning:**]() Develop time-saving error analysis procedures to evaluate the most worthwhile options to pursue and gain intuition for how to split your data and when to use multi-task, transfer, and end-to-end deep learning.
 
 ### Course 4: [Convolutional Neural Networks]()
 In the fourth course of the Deep Learning Specialization, we will understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
