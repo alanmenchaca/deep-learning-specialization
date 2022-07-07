@@ -48,4 +48,4 @@ In the fifth course of the Deep Learning Specialization, we will become familiar
 
 ### Disclaimer
 The solutions to the assignments uploaded here are **only for reference**.
-* In the course of Convolutional Neural Networks (4th course) the datasets of the assignments were removed, so that the files were lighter when downloading them.
+* In the course of Convolutional Neural Networks (4th course) some datasets and pretrained models of the assignments were removed, so that the files were lighter when downloading them.
