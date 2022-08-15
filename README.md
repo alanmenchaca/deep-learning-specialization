@@ -9,9 +9,9 @@ There are 5 courses in this Specialized Program:
 In the first course of the Deep Learning Specialization, we will study the foundational concept of neural networks and deep learning. 
 
 * **Week 1 - Introduction to Deep Learning:** Understand the significant technological trends driving deep learning development and where and how it’s applied.
-* [**Week 2 - Neural Networks Basics:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC01%5D%20Neural%20Networks%20and%20Deep%20Learning/Neural%20Networks%20Basics) Set up a machine learning problem with a neural network mindset and use vectorization to speed up your models.
-* [**Week 3 - Shallow Neural Networks:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC01%5D%20Neural%20Networks%20and%20Deep%20Learning/Shallow%20Neural%20Networks) Build a neural network with one hidden layer using forward propagation and backpropagation.
-* [**Week 4 - Deep Neural Networks:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC01%5D%20Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Networks) Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply them to computer vision.
+* **Week 2 -** [**Neural Networks Basics:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC01%5D%20Neural%20Networks%20and%20Deep%20Learning/Neural%20Networks%20Basics) Set up a machine learning problem with a neural network mindset and use vectorization to speed up your models.
+* **Week 3 -** [**Shallow Neural Networks:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC01%5D%20Neural%20Networks%20and%20Deep%20Learning/Shallow%20Neural%20Networks) Build a neural network with one hidden layer using forward propagation and backpropagation.
+* **Week 4 -** [**Deep Neural Networks:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC01%5D%20Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Networks) Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply them to computer vision.
 
 
 ### Course 2: [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC02%5D%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization)
