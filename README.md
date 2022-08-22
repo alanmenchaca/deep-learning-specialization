@@ -38,11 +38,11 @@ In the fourth course of the Deep Learning Specialization, we will understand how
 * **Week 4 -** [**Special Applications: Face recognition & Neural Style Transfer:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC04%5D%20Convolutional%20Neural%20Networks/Special%20Applications%2C%20Face%20recognition%20%26%20Neural%20Style%20Transfer) Discover how CNNs can be applied to multiple fields, including art generation and face recognition, and implement your own algorithm to generate art and recognize faces.
 
 
-### Course 5: [Sequence Models]()
+### Course 5: [Sequence Models](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC05%5D%20Sequence%20Models)
 In the fifth course of the Deep Learning Specialization, we will become familiar with sequence models and their exciting applications such as speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more.
 
-* **Week 1 -** [**Recurrent Neural Networks:**]() Discover recurrent neural networks (RNNs) and several of their variants, including LSTMs, GRUs and Bidirectional RNNs, all models that perform exceptionally well on temporal data.
-* **Week 2 -** [**Natural Language Processing and Word Embeddings:**]() Use word vector representations and embedding layers to train recurrent neural networks with an outstanding performance across a wide variety of applications, including sentiment analysis, named entity recognition, and neural machine translation.
+* **Week 1 -** [**Recurrent Neural Networks:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC05%5D%20Sequence%20Models/Recurrent%20Neural%20Networks) Discover recurrent neural networks (RNNs) and several of their variants, including LSTMs, GRUs and Bidirectional RNNs, all models that perform exceptionally well on temporal data.
+* **Week 2 -** [**Natural Language Processing and Word Embeddings:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC05%5D%20Sequence%20Models/Natural%20Language%20Processing%20%26%20Word%20Embeddings) Use word vector representations and embedding layers to train recurrent neural networks with an outstanding performance across a wide variety of applications, including sentiment analysis, named entity recognition, and neural machine translation.
 * **Week 3 -** [**Sequence Models and the Attention Mechanism:**]() Augment your sequence models using an attention mechanism, an algorithm that helps your model decide where to focus its attention given a sequence of inputs, explore speech recognition and how to deal with audio data, and improve your sequence models with the attention mechanism.
 * **Week 4 -** [**Transformers:**]() Build the transformer architecture and tackle natural language processing (NLP) tasks such as attention models, named entity recognition (NER) and Question Answering (QA).
 
