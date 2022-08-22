@@ -5,46 +5,46 @@ In this Specialization, we will build and train neural network architectures suc
 
 There are 5 courses in this Specialized Program:
 
-### Course 1: [Neural Networks Deep Learning]()
+### Course 1: [Neural Networks Deep Learning](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC01%5D%20Neural%20Networks%20and%20Deep%20Learning)
 In the first course of the Deep Learning Specialization, we will study the foundational concept of neural networks and deep learning. 
 
 * **Week 1 - Introduction to Deep Learning:** Understand the significant technological trends driving deep learning development and where and how it’s applied.
-* [**Week 2 - Neural Networks Basics:**]() Set up a machine learning problem with a neural network mindset and use vectorization to speed up your models.
-* [**Week 3 - Shallow Neural Networks:**]() Build a neural network with one hidden layer using forward propagation and backpropagation.
-* [**Week 4 - Deep Neural Networks:**]() Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply them to computer vision.
+* **Week 2 -** [**Neural Networks Basics:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC01%5D%20Neural%20Networks%20and%20Deep%20Learning/Neural%20Networks%20Basics) Set up a machine learning problem with a neural network mindset and use vectorization to speed up your models.
+* **Week 3 -** [**Shallow Neural Networks:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC01%5D%20Neural%20Networks%20and%20Deep%20Learning/Shallow%20Neural%20Networks) Build a neural network with one hidden layer using forward propagation and backpropagation.
+* **Week 4 -** [**Deep Neural Networks:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC01%5D%20Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Networks) Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply them to computer vision.
 
 
-### Course 2: [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization]()
+### Course 2: [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC02%5D%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization)
 In the second course of the Deep Learning Specialization, we will open the deep learning black box to understand the processes that drive performance and generate good results systematically. 
 
-* [**Week 1 - Practical Aspects of Deep Learning:**]() Discover and experiment with various initialization methods, apply L2 regularization and dropout to avoid model overfitting, and use gradient checking to identify errors in a fraud detection model.
-* [**Week 2 - Optimization Algorithms:**]() Develop your deep learning toolbox by adding more advanced optimizations, random mini-batching, and learning rate decay scheduling to speed up your models.
-* [**Week 3 - Hyperparameter Tuning, Batch Normalization and Programming Frameworks:**]() Explore TensorFlow, a deep learning framework that allows you to build neural networks quickly and easily and train a neural network on a TensorFlow dataset.
+* **Week 1 -** [**Practical Aspects of Deep Learning:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC02%5D%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Practical%20Aspects%20of%20Deep%20Learning) Discover and experiment with various initialization methods, apply L2 regularization and dropout to avoid model overfitting, and use gradient checking to identify errors in a fraud detection model.
+* **Week 2 -** [**Optimization Algorithms:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC02%5D%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Optimization%20Algorithms) Develop your deep learning toolbox by adding more advanced optimizations, random mini-batching, and learning rate decay scheduling to speed up your models.
+* **Week 3 -** [**Hyperparameter Tuning, Batch Normalization and Programming Frameworks:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC02%5D%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Hyperparameter%20Tuning%2C%20Batch%20Normalization%20and%20Programming%20Frameworks) Explore TensorFlow, a deep learning framework that allows you to build neural networks quickly and easily and train a neural network on a TensorFlow dataset.
 
 
-### Course 3: [Structuring Machine Learning Projects]()
+### Course 3: [Structuring Machine Learning Projects](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC03%5D%20Structuring%20Machine%20Learning%20Projects)
 In the third course of the Deep Learning Specialization, we will learn how to build a successful machine learning project and get to practice decision-making as a machine learning project leader.
 
-* [**ML Strategy [1] - Strategic guidelines and Using Human-level Performance:**]() Streamline and optimize your ML production workflow by implementing strategic guidelines for goal-setting and applying human-level performance to help define key priorities.
-* [**ML Strategy [2] - Error Analysis & End-to-end Deep Learning:**]() Develop time-saving error analysis procedures to evaluate the most worthwhile options to pursue and gain intuition for how to split your data and when to use multi-task, transfer, and end-to-end deep learning.
+* **ML Strategy [1] -** [**Strategic guidelines and Using Human-level Performance:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC03%5D%20Structuring%20Machine%20Learning%20Projects/Strategic%20guidelines%20and%20Using%20Human-level%20Performance) Streamline and optimize your ML production workflow by implementing strategic guidelines for goal-setting and applying human-level performance to help define key priorities.
+* **ML Strategy [2] -** [**Error Analysis & End-to-end Deep Learning:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC03%5D%20Structuring%20Machine%20Learning%20Projects/Error%20Analysis%20and%20End-to-end%20Deep%20Learning) Develop time-saving error analysis procedures to evaluate the most worthwhile options to pursue and gain intuition for how to split your data and when to use multi-task, transfer, and end-to-end deep learning.
 
 
-### Course 4: [Convolutional Neural Networks]()
+### Course 4: [Convolutional Neural Networks](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC04%5D%20Convolutional%20Neural%20Networks)
 In the fourth course of the Deep Learning Specialization, we will understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
 
-* [**Week 1 - Foundations of Convolutional Neural Networks:**]() Implement the foundational layers of CNNs (pooling, convolutions) and stack them properly in a deep network to solve multi-class image classification problems.
-* [**Week 2 - Deep Convolutional Models - Case Studies:**]() Discover practical techniques and methods used in research papers to apply transfer learning to your own deep CNN.
-* [**Week 3 - Object Detection:**]() Apply your knowledge of CNNs to computer vision: object detection and semantic segmentation using self-driving car datasets.
-* [**Week 4 - Special Applications: Face recognition & Neural Style Transfer:**]() Discover how CNNs can be applied to multiple fields, including art generation and face recognition, and implement your own algorithm to generate art and recognize faces.
+* **Week 1 -** [**Foundations of Convolutional Neural Networks:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC04%5D%20Convolutional%20Neural%20Networks/Foundations%20of%20Convolutional%20Neural%20Networks) Implement the foundational layers of CNNs (pooling, convolutions) and stack them properly in a deep network to solve multi-class image classification problems.
+* **Week 2 -** [**Deep Convolutional Models - Case Studies:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC04%5D%20Convolutional%20Neural%20Networks/Deep%20Convolutional%20Models%20-%20Case%20Studies) Discover practical techniques and methods used in research papers to apply transfer learning to your own deep CNN.
+* **Week 3 -** [**Object Detection:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC04%5D%20Convolutional%20Neural%20Networks/Object%20Detection) Apply your knowledge of CNNs to computer vision: object detection and semantic segmentation using self-driving car datasets.
+* **Week 4 -** [**Special Applications: Face recognition & Neural Style Transfer:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC04%5D%20Convolutional%20Neural%20Networks/Special%20Applications%2C%20Face%20recognition%20%26%20Neural%20Style%20Transfer) Discover how CNNs can be applied to multiple fields, including art generation and face recognition, and implement your own algorithm to generate art and recognize faces.
 
 
 ### Course 5: [Sequence Models]()
 In the fifth course of the Deep Learning Specialization, we will become familiar with sequence models and their exciting applications such as speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more.
 
-* [**Week 1 - Recurrent Neural Networks:**]() Discover recurrent neural networks (RNNs) and several of their variants, including LSTMs, GRUs and Bidirectional RNNs, all models that perform exceptionally well on temporal data.
-* [**Week 2 - Natural Language Processing and Word Embeddings:**]() Use word vector representations and embedding layers to train recurrent neural networks with an outstanding performance across a wide variety of applications, including sentiment analysis, named entity recognition, and neural machine translation.
-* [**Week 3 - Sequence Models and the Attention Mechanism:**]() Augment your sequence models using an attention mechanism, an algorithm that helps your model decide where to focus its attention given a sequence of inputs, explore speech recognition and how to deal with audio data, and improve your sequence models with the attention mechanism.
-* [**Week 4 - Transformers:**]() Build the transformer architecture and tackle natural language processing (NLP) tasks such as attention models, named entity recognition (NER) and Question Answering (QA).
+* **Week 1 -** [**Recurrent Neural Networks:**]() Discover recurrent neural networks (RNNs) and several of their variants, including LSTMs, GRUs and Bidirectional RNNs, all models that perform exceptionally well on temporal data.
+* **Week 2 -** [**Natural Language Processing and Word Embeddings:**]() Use word vector representations and embedding layers to train recurrent neural networks with an outstanding performance across a wide variety of applications, including sentiment analysis, named entity recognition, and neural machine translation.
+* **Week 3 -** [**Sequence Models and the Attention Mechanism:**]() Augment your sequence models using an attention mechanism, an algorithm that helps your model decide where to focus its attention given a sequence of inputs, explore speech recognition and how to deal with audio data, and improve your sequence models with the attention mechanism.
+* **Week 4 -** [**Transformers:**]() Build the transformer architecture and tackle natural language processing (NLP) tasks such as attention models, named entity recognition (NER) and Question Answering (QA).
 
 ### Disclaimer
 The solutions to the assignments uploaded here are **only for reference**.
