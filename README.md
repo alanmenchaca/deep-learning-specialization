@@ -3,7 +3,8 @@ The Deep Learning Specialization is a foundational program that will help us und
 
 In this Specialization, we will build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. We will get ready to master theoretical concepts and their industry applications using Python and TensorFlow and tackle real-world cases such as speech recognition, music synthesis, chatbots, machine translation, natural language processing, and more.
 
-There are 5 courses in this Specialized Program:
+#### My Course Certificate:
+https://www.coursera.org/account/accomplishments/specialization/6A49H5M2LRWW
 
 ### Course 1: [Neural Networks Deep Learning](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC01%5D%20Neural%20Networks%20and%20Deep%20Learning)
 In the first course of the Deep Learning Specialization, we will study the foundational concept of neural networks and deep learning. 
@@ -43,8 +44,8 @@ In the fifth course of the Deep Learning Specialization, we will become familiar
 
 * **Week 1 -** [**Recurrent Neural Networks:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC05%5D%20Sequence%20Models/Recurrent%20Neural%20Networks) Discover recurrent neural networks (RNNs) and several of their variants, including LSTMs, GRUs and Bidirectional RNNs, all models that perform exceptionally well on temporal data.
 * **Week 2 -** [**Natural Language Processing and Word Embeddings:**](https://github.com/alanmenchaca/deep-learning-specialization/tree/main/%5BC05%5D%20Sequence%20Models/Natural%20Language%20Processing%20%26%20Word%20Embeddings) Use word vector representations and embedding layers to train recurrent neural networks with an outstanding performance across a wide variety of applications, including sentiment analysis, named entity recognition, and neural machine translation.
-* **Week 3 -** [**Sequence Models and the Attention Mechanism:**]() Augment your sequence models using an attention mechanism, an algorithm that helps your model decide where to focus its attention given a sequence of inputs, explore speech recognition and how to deal with audio data, and improve your sequence models with the attention mechanism.
-* **Week 4 -** [**Transformers:**]() Build the transformer architecture and tackle natural language processing (NLP) tasks such as attention models, named entity recognition (NER) and Question Answering (QA).
+* **Week 3 -** **Sequence Models and the Attention Mechanism:** Augment your sequence models using an attention mechanism, an algorithm that helps your model decide where to focus its attention given a sequence of inputs, explore speech recognition and how to deal with audio data, and improve your sequence models with the attention mechanism.
+* **Week 4 -** **Transformers:** Build the transformer architecture and tackle natural language processing (NLP) tasks such as attention models, named entity recognition (NER) and Question Answering (QA).
 
 ### Disclaimer
 The solutions to the assignments uploaded here are **only for reference**.
